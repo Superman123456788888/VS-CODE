@@ -1,0 +1,13 @@
+header {
+  background-color: #28c228;
+}
+
+@import
+h1 {
+  color: darkblue;
+}
+
+body {
+  font-size: 30px;
+  background-color: #f016e5;
+}
